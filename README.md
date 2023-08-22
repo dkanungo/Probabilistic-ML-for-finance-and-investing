@@ -1,4 +1,4 @@
-# This is the code repository for my book.
+# This is the code repository for my book. Please note that all code was written in Colab notebooks and might need to be tweaked for Jupyter notebooks.
 
 ![book](https://github.com/dkanungo/Probabilistic-ML-for-finance-and-investing/assets/43560983/aefb4507-37c7-4d4a-9c9a-027a6504b415)
 
