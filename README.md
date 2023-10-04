@@ -11,6 +11,8 @@
 
 "An enlightening book. It makes me think about the flaws of recent machine learning models. A probabilistic machine learning approach gives us another tool to apply." **Abdullah Karasan, Founder of Leveragai & Faculty, University of Maryland, Baltimore County**.
 
+"Finally, a lucid examination of the fallacies of classical statistics, particularly null hypothesis significance testing and confidence intervals. This book demonstrates the power of modern probabilistic ML and their generative ensembles through insightful applications to finance and investing." - **Mike Shwe, former Product Manager, TensorFlow Probability, Google Inc.**
+
 **From the Publisher**
 
 There are several reasons why probabilistic machine learning represents the next-generation ML framework and technology for finance and investing. This generative ensemble learns continually from small and noisy financial datasets while seamlessly enabling probabilistic inference, retrodiction, prediction, and counterfactual reasoning. Probabilistic ML also lets you systematically encode personal, empirical, and institutional knowledge into ML models.
