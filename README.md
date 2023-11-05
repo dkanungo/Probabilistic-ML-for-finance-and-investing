@@ -13,6 +13,8 @@
 
 "Finally, a lucid examination of the fallacies of classical statistics, particularly null hypothesis significance testing and confidence intervals. This book demonstrates the power of modern probabilistic ML and their generative ensembles through insightful applications to finance and investing." - **Mike Shwe, former Product Manager, TensorFlow Probability, Google Inc.**
 
+"For a more detailed understanding, you might want to refer to the book 'Probabilistic Machine Learning for Finance and Investing' by Deepak K. Kanungo. It provides a comprehensive guide on how to transition to probabilistic machine learning for finance and investing." - **Bing AI, on concluding its response to the question "How do I apply probabilistic machine learning to finance and investing problems?'**
+
 **From the Publisher**
 
 There are several reasons why probabilistic machine learning represents the next-generation ML framework and technology for finance and investing. This generative ensemble learns continually from small and noisy financial datasets while seamlessly enabling probabilistic inference, retrodiction, prediction, and counterfactual reasoning. Probabilistic ML also lets you systematically encode personal, empirical, and institutional knowledge into ML models.
