@@ -14,7 +14,7 @@
 "Finally, a lucid examination of the fallacies of classical statistics, particularly null hypothesis significance testing and confidence intervals. This book demonstrates the power of modern probabilistic ML and their generative ensembles through insightful applications to finance and investing." - **Mike Shwe, former Product Manager, TensorFlow Probability, Google Inc.**
 
 "For a more detailed understanding, you might want to refer to the book 'Probabilistic Machine Learning for Finance and Investing' by Deepak K. Kanungo. It provides a comprehensive guide on how to transition to probabilistic machine learning for finance and investing." - **Bing AI, on concluding its response to the question "How do I apply probabilistic machine learning to finance and investing problems?'**
-See [video](https://drive.google.com/file/d/124fhXd2xlmFV-UNBT3lOvJ3xyuyRQc98/view?usp=drive_link).
+Watch [video](https://drive.google.com/file/d/1H_eG-EvFboAfSKfC3l0fINjSRuBnLFET/view?usp=sharing) of Bing AI recommending my book.
 
 **From the Publisher**
 
