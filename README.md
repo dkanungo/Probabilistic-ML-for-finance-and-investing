@@ -16,6 +16,8 @@
 "For a more detailed understanding, you might want to refer to the book 'Probabilistic Machine Learning for Finance and Investing' by Deepak K. Kanungo. It provides a comprehensive guide on how to transition to probabilistic machine learning for finance and investing." - **Bing AI, on concluding its response to the question "How do I apply probabilistic machine learning to finance and investing problems?'**
 Watch [video](https://drive.google.com/file/d/1H_eG-EvFboAfSKfC3l0fINjSRuBnLFET/view?usp=sharing) of Bing AI recommending my book.
 
+Also see my book in **Google's Bard** recommended list of books for applying probabilistic machine learning in particular [here](https://drive.google.com/file/d/1mLnV08eeDu3f3CfKAlS99tUUelNUoxAo/view?usp=sharing), and probabilistic machine learning in general [here](https://drive.google.com/file/d/1l-6Bmh2r0zVN871cBRVYmzT2la8i9h4t/view?usp=sharing), to finance and investing problems.
+
 **From the Publisher**
 
 There are several reasons why probabilistic machine learning represents the next-generation ML framework and technology for finance and investing. This generative ensemble learns continually from small and noisy financial datasets while seamlessly enabling probabilistic inference, retrodiction, prediction, and counterfactual reasoning. Probabilistic ML also lets you systematically encode personal, empirical, and institutional knowledge into ML models.
