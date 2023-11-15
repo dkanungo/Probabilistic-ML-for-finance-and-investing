@@ -16,7 +16,7 @@
 "For a more detailed understanding, you might want to refer to the book 'Probabilistic Machine Learning for Finance and Investing' by Deepak K. Kanungo. It provides a comprehensive guide on how to transition to probabilistic machine learning for finance and investing." - **Bing AI, on concluding its response to the question "How do I apply probabilistic machine learning to finance and investing problems?'**
 Watch [video](https://drive.google.com/file/d/1H_eG-EvFboAfSKfC3l0fINjSRuBnLFET/view?usp=sharing) of Bing AI recommending my book.
 
-Also see my book in **Google's Bard** recommended list of books for applying probabilistic machine learning in particular [here](https://drive.google.com/file/d/1mLnV08eeDu3f3CfKAlS99tUUelNUoxAo/view?usp=sharing), and probabilistic machine learning in general [here](https://drive.google.com/file/d/1l-6Bmh2r0zVN871cBRVYmzT2la8i9h4t/view?usp=sharing), to finance and investing problems.
+Also see my book in **Google's Bard** recommended list of books for applying [probabilistic machine learning](https://drive.google.com/file/d/1mLnV08eeDu3f3CfKAlS99tUUelNUoxAo/view?usp=sharing) to finance and investing problems in particular, and applying [machine learning](https://drive.google.com/file/d/1l-6Bmh2r0zVN871cBRVYmzT2la8i9h4t/view?usp=sharing) in general to that domain.
 
 **From the Publisher**
 
