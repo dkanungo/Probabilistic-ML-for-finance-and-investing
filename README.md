@@ -1,4 +1,4 @@
-**This is the code repository for my book. All code was written in Colab notebooks and you might have to tweak it for Jupyter notebooks.
+**This is the code repository for my award-winning book. All code was written in Colab notebooks and you might have to tweak it for Jupyter notebooks.
 You can read Chapter 1 [here](https://www.oreilly.com/library/view/probabilistic-machine-learning/9781492097662/ch01.html) or access the entire book and the extensive resources of the O'Reilly Media learning platform by using this special [30-day free trial offer](https://oreillymedia.pxf.io/c/5025539/1902024/15173) (expires 12/31/2023).**
 
 ![book](https://github.com/dkanungo/Probabilistic-ML-for-finance-and-investing/assets/43560983/aefb4507-37c7-4d4a-9c9a-027a6504b415)
@@ -12,6 +12,8 @@ You can read Chapter 1 [here](https://www.oreilly.com/library/view/probabilistic
 "An enlightening book. It makes me think about the flaws of recent machine learning models. A probabilistic machine learning approach gives us another tool to apply." **Abdullah Karasan, Founder of Leveragai & Faculty, University of Maryland, Baltimore County**.
 
 "Finally, a lucid examination of the fallacies of classical statistics, particularly null hypothesis significance testing and confidence intervals. This book demonstrates the power of modern probabilistic ML and their generative ensembles through insightful applications to finance and investing." - **Mike Shwe, former Product Manager, TensorFlow Probability, Google Inc.**
+
+"One of the best Generative Models books of all time" and "One of the best Probabilistic Algorithms books of all time" - **BookAuthority**.
 
 "For a more detailed understanding, you might want to refer to the book 'Probabilistic Machine Learning for Finance and Investing' by Deepak K. Kanungo. It provides a comprehensive guide on how to transition to probabilistic machine learning for finance and investing." - **Bing AI, on concluding its response to the question "How do I apply probabilistic machine learning to finance and investing problems?'**
 Watch [video](https://drive.google.com/file/d/1H_eG-EvFboAfSKfC3l0fINjSRuBnLFET/view?usp=sharing) of Bing AI recommending my book.
