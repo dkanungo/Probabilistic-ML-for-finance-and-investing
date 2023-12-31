@@ -9,9 +9,9 @@ You can read Chapter 1 [here](https://www.oreilly.com/library/view/probabilistic
 
 "Explaining the flaws of conventional models, and the realistic predictions of probabilistic ML models for finance and investing, this book is a significant leap forward in minimizing the reliance on intuition." —**Bruno Rignel, Chief Investment Officer, Alpha Key Capital Management**.
 
-"An enlightening book. It makes me think about the flaws of recent machine learning models. A probabilistic machine learning approach gives us another tool to apply." **Abdullah Karasan, Founder of Leveragai & Faculty, University of Maryland, Baltimore County**.
-
 "Finally, a lucid examination of the fallacies of classical statistics, particularly null hypothesis significance testing and confidence intervals. This book demonstrates the power of modern probabilistic ML and their generative ensembles through insightful applications to finance and investing." - **Mike Shwe, former Product Manager, TensorFlow Probability, Google Inc.**
+
+"An enlightening book. It makes me think about the flaws of recent machine learning models. A probabilistic machine learning approach gives us another tool to apply." **Abdullah Karasan, Founder of Leveragai & Faculty, University of Maryland, Baltimore County**.
 
 "One of the best Generative Models books of all time" and "One of the best Probabilistic Algorithms books of all time" - **BookAuthority**.
 
@@ -28,4 +28,8 @@ Whether they’re based on academic theories or ML strategies, all financial mod
 
 Unlike conventional AI, these systems are capable of warning us when their inferences and predictions are no longer useful in the current market environment. By moving away from flawed statistical methodologies and a restrictive conventional view of probability as a limiting frequency, you’ll move toward an intuitive view of probability as logic within an axiomatic statistical framework that comprehensively and successfully quantifies uncertainty.This book shows you how.
 
-**Deepak K. Kanungo** is an algorithmic derivatives trader, instructor, and CEO of **Hedged Capital LLC**, an AI-powered proprietary trading company he founded in 2009. Since 2019, Deepak has taught tens of thousands of O’Reilly Media subscribers worldwide the concepts, processes, and machine learning technologies for algorithmic trading, investing, and finance with Python. He also served as a financial advisor at Morgan Stanley during the Great Financial Crisis.
+**Deepak K. Kanungo** is an algorithmic derivatives trader, instructor, and CEO of **Hedged Capital LLC**, an AI-powered proprietary trading company he founded in 2009. Since 2019, Deepak has taught tens of thousands of O’Reilly Media subscribers worldwide the concepts, processes, and machine learning technologies for algorithmic trading, investing, and finance with Python. He is the instructor for the [O’Reilly course Hands-On Algorithmic Trading With Python](https://oreillymedia.pxf.io/daPqB2)
+
+In 2005, long before machine learning was an industry buzzword, Deepak invented a probabilistic machine learning method and software system for managing the risks and returns of project portfolios. It is a unique probabilistic framework that has been cited by IBM, Fujitsu and Accenture, among others. See his patent filing [here](https://patents.google.com/patent/WO2006119437A2/en).
+
+Previously, Deepak was a financial advisor at Morgan Stanley during the Great Financial Crisis, a Silicon Valley fintech entrepreneur, a director in the Global Planning Department at Mastercard International, and a senior analyst with Diamond Technology Partners. He was educated at Princeton University (astrophysics) and the London School of Economics (finance and information systems).
