@@ -1,5 +1,5 @@
 **This is the code repository for my award-winning book. All code was written in Colab notebooks and you might have to tweak it for Jupyter notebooks.
-You can read Chapter 1 [here](https://www.oreilly.com/library/view/probabilistic-machine-learning/9781492097662/ch01.html) or access the entire book and the extensive resources of the O'Reilly Media learning platform by using this special [30-day free trial offer](https://oreillymedia.pxf.io/c/5025539/1902024/15173) (expires 12/31/2023).**
+You can read Chapter 1 [here](https://www.oreilly.com/library/view/probabilistic-machine-learning/9781492097662/ch01.html).**
 
 ![book](https://github.com/dkanungo/Probabilistic-ML-for-finance-and-investing/assets/43560983/aefb4507-37c7-4d4a-9c9a-027a6504b415)
 
@@ -28,7 +28,7 @@ Whether they’re based on academic theories or ML strategies, all financial mod
 
 Unlike conventional AI, these systems are capable of warning us when their inferences and predictions are no longer useful in the current market environment. By moving away from flawed statistical methodologies and a restrictive conventional view of probability as a limiting frequency, you’ll move toward an intuitive view of probability as logic within an axiomatic statistical framework that comprehensively and successfully quantifies uncertainty.This book shows you how.
 
-**Deepak K. Kanungo** is an algorithmic derivatives trader, instructor, and CEO of **Hedged Capital LLC**, an AI-powered proprietary trading company he founded in 2009. Since 2019, Deepak has taught tens of thousands of O’Reilly Media subscribers worldwide the concepts, processes, and machine learning technologies for algorithmic trading, investing, and finance with Python. He is the instructor for the [O’Reilly course Hands-On Algorithmic Trading With Python](https://oreillymedia.pxf.io/daPqB2)
+**Deepak K. Kanungo** is an algorithmic derivatives trader, instructor, and CEO of [Hedged Capital](http://hedgedcapital.com), an AI-powered proprietary trading company he founded in 2009. Since 2019, Deepak has taught tens of thousands of O’Reilly Media subscribers worldwide the concepts, processes, and machine learning technologies for algorithmic trading, investing, and finance with Python. He is the instructor for the [O’Reilly course Hands-On Algorithmic Trading With Python](https://oreillymedia.pxf.io/daPqB2)
 
 In 2005, long before machine learning was an industry buzzword, Deepak invented a probabilistic machine learning method and software system for managing the risks and returns of project portfolios. It is a unique probabilistic framework that has been cited by IBM, Fujitsu and Accenture, among others. See his patent filing [here](https://patents.google.com/patent/WO2006119437A2/en).
 
