@@ -1,5 +1,6 @@
-**This is the code repository for my award-winning book. All code was written in Colab notebooks and you might have to tweak it for Jupyter notebooks.
-You can read Chapter 1 [here](https://oreillymedia.pxf.io/AWM6kK). Or you can read the entire book for free, and many others, over the next 30 days while accessing the vast resources of O'Reilly Media's learning platform by signing-up [here](https://oreillymedia.pxf.io/c/5025539/1902024/15173).**
+**This is the code repository for my award-winning book that has already been cited in several high-quality journals in applied and computational engineering, data science, analytics, and symbolic logic. See [citations](https://scholar.google.com/scholar?cites=17212379193186594560&as_sdt=2005&sciodt=0,5&hl=en). All code was written in Colab notebooks and you might have to tweak it for Jupyter notebooks.**
+
+**You can read Chapter 1 [here](https://oreillymedia.pxf.io/AWM6kK). Or you can read the entire book for free, and many others, over the next 30 days while accessing the vast resources of O'Reilly Media's learning platform by signing-up [here](https://oreillymedia.pxf.io/c/5025539/1902024/15173). If you prefer to own a copy of the digital book or paperback, you can buy it at a [discount](https://amzn.to/3DPV1iq) on Amazon.**
 
 ![book](https://github.com/dkanungo/Probabilistic-ML-for-finance-and-investing/assets/43560983/aefb4507-37c7-4d4a-9c9a-027a6504b415)
 
